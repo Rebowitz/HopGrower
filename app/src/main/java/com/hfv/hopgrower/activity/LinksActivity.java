@@ -1,0 +1,1 @@
+package com.hfv.hopgrower.activity;import android.support.v7.app.ActionBarActivity;/** * @author Robert B. Andrews *         RBA Internet Services, Inc. Strasburg, Virginia *         Copyright 2014  All Rights Reserved */public class LinksActivity extends ActionBarActivity {//	getSupportActionBar().setTitle(R.string.app_links);}
